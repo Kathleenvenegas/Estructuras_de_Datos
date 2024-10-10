@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MediSim">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MediSimFinal/dist/MediSim.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
